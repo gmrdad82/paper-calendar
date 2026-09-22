@@ -1,6 +1,7 @@
 # WK-16 — Plugin: Calendar and reminders
 
-Branch: split-wk-16 (in both repos) · Worktree: ~/Projects/.worktrees/paper-calendar/split-wk-16 and ~/Projects/.worktrees/pito-work/split-wk-16
+Wave: 1 · Run: single · Depends on: none · Complexity: **
+Branch: split-wk-16 · Base: main
 
 ## What
 The book (section 6): "Calendar and reminders (dates on Pages, a month panel, desktop notifications)". His dump of 2026-09-12 named it as a plugin idea: "some kind of calendar, like maybe being able to set up calendar events and reminders for some specific things". The desk knows no dates beyond a Page's own timestamps;
